@@ -18,8 +18,10 @@ My journey then led me to the University of Jyväskylä in Finland as part of an
 - Tools: Git
 
 ### Experience
-- Senior Developer at XYZ Corp with a focus on backend development and scalable infrastructure.
-- Previously worked at ABC Inc., leading several high-impact projects.
+- **Competitive Aerospace Group**: Developing educational satellites and stratospheric probes
+- **Scientific Initiation**: Buiding autonomous robots to stimulate the teaching of robotics in schools.
+- **Scientific Initiation**: Development of  a Man-Machine Interface to control, monitor, and acquire experimental data on thermic fatigue.
+
 
 ## Education
 - **Bachelor's Degree in Control and Automation Engineering**
@@ -49,8 +51,9 @@ I am deeply interested in back end development, with a focus on building robust 
 
 ## Contact Information
 - **GitHub**: [Riquelme3m](https://github.com/Riquelme3m)
-- **LinkedIn**: [Riquelme Batista](www.linkedin.com/in/riquelme-batista-389b37218)
+- **LinkedIn**: [Riquelme Batista](https://www.linkedin.com/in/riquelme-batista-389b37218)
 - **Email**: riquelme3m@outlook.com
+
 
 ## Call to Action
 Feel free to check out my projects and don’t hesitate to connect with me for collaborations or opportunities!
