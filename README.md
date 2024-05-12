@@ -51,7 +51,7 @@ I am deeply interested in back end development, with a focus on building robust 
 
 ## Voluntary Projects
 
-- **Assisting International Students**: Engaged in a meaningful initiative spearheaded by the University's Department of International Relations, I dedicated myself to supporting exchange students navigating their experience in Brazil. My role involved providing vital assistance and facilitating language acquisition, ensuring their smooth integration into the vibrant Brazilian culture.
+- **Assisting International Students**: Engaged in a meaningful initiative spearheaded by the University's Department of International Relations, I dedicated myself to supporting exchange students navigating their experience in Brazil. My role involved providing vital assistance and facilitating language acquisition, ensuring their smooth integration.
 
 
 ## Contact Information
