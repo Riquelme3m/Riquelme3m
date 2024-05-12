@@ -36,10 +36,6 @@ My journey then led me to the University of Jyväskylä in Finland as part of an
   - CEFET-MG
   - *Years Attended*: 2018 - 2021
 
-
-## Projects Overview
-- [Project Name](link) - A brief description of the project and technologies used.
-
 ## Interests
 I am deeply interested in back end development, with a focus on building robust and scalable systems. Additionally, I am passionate about exploring the full stack, combining my back end expertise with front end technologies to create complete and dynamic web applications.
 
