@@ -13,7 +13,7 @@ My journey then led me to the University of Jyväskylä in Finland as part of an
 ## Professional Background
 ### Skills
 - Concepts: Strong knowledge of Object-Oriented Programming (OOP) and Data Structures and Algorithms (DSA)
-- Programming Languages: C++, SQL, HTML, CSS, JavaScript
+- Programming Languages: C++, SQL,NoSQL, HTML, CSS, JavaScript
 - Database Management Systems : MySQL and MongoDB
 - Tools: Git
 
