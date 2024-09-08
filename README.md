@@ -8,7 +8,7 @@
 I am an Electrical Technician from [CEFET-MG](https://www.curvelo.cefetmg.br/) and am currently studying computer science at the [University of Jyväskylä](https://www.jyu.fi/en) in Finland as an exchange student. Additionally, I am pursuing a bachelor's degree in Control and Automation Engineering at Universidade Federal de Minas Gerais [(UFMG)](https://www.ufmg.br).
 I am focused on enhancing my skills in Software Development, with a particular interest in both front-end and back-end technologies.
 
-<img align="right" alt="" height="300px"  width="300px" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHA1bDl1MTFla3hsZmZpYXhhMHNqN2k3aDMwM2Zmdzkyc3J2NXJraCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y1vohJMVMtjSQxmUot/giphy.gif">
+<img align="right" alt="" height="300px"  width="300px" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDJ1dzZtMDVrNzluanhxaW5ybTJqdWF1bDRubHNrc2trMGpuN2xnZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/c0Jwn0I22a3XHgPaft/giphy.gif">
 
 
 
@@ -25,18 +25,16 @@ I am focused on enhancing my skills in Software Development, with a particular i
 
 
 ### Languages and Technologies
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,c,cs,dotnet,docker,babel" />
-</a>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,cpp,py)](https://skillicons.dev)
 
 ### Frameworks and Libraries
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,vite,firebase,mongodb,mysql,postgres,materialui,jest" />
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,sass,react,nodejs,mongodb,express,mysql,postgres," />
 </a>
 
 ### Tools and Platforms
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,figma,linux,npm,yarn,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws" />
 </a>
 
 
