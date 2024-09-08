@@ -1,61 +1,50 @@
-# Welcome to My GitHub Profile!
+![I'm a Software Engineer (1)](github-header-image.png)
 
-## Introduction
-Hello, I'm Riquelme. I have a strong passion for Software Engineering. I am currently majoring in Control and Automation Engineering at UFMG and participating in an exchange program at the University of Jyväskylä in Finland, where I am studying Computer Science to further enhance my skills.
-
-## Professional journey
-Throughout my educational journey, I was accepted into two technical colleges in Brazil at the age of 15—CEFET-MG, where I studied electrotechnical engineering, and IFMG, where I was offered a place to study automation. I chose to pursue electrotechnical engineering at CEFET-MG, and during my high school years, I actively participated in extracurricular activities. I first joined a competitive aerospace group and later engaged in a scientific initiation in robotics, where I first encountered programming.
-
-After completing high school, I took the ENEM exam, a prerequisite for university admission in Brazil. My high score enabled me to gain admission to several universities. Ultimately, I chose to attend UFMG, where I began my studies in Control and Automation Engineering. By my third semester, I was involved in another scientific initiation at CDTN (Centro de Desenvolvimento da Tecnologia Nuclear), where I developed a man-machine interface to control machinery used in nuclear research.
-
-My journey then led me to the University of Jyväskylä in Finland as part of an exchange program. Here, I am further enhancing my programming skills and gaining international exposure in the field of Computer Science.
-
-## Professional Background
-### Skills
-- Concepts: Strong knowledge of Object-Oriented Programming (OOP) and Data Structures and Algorithms (DSA)
-- Programming Languages: C++, SQL,NoSQL, HTML, CSS, JavaScript
-- Database Management Systems : MySQL and MongoDB
-- Tools: Git
-
-### Experience
-- **Competitive Aerospace Group**: Developing educational satellites and stratospheric probes
-- **Scientific Initiation**: Buiding autonomous robots to stimulate the teaching of robotics in schools.
-- **Scientific Initiation**: Development of  a Man-Machine Interface to control, monitor, and acquire experimental data on thermic fatigue.
+# Hello there! I'm Riquelme Batista 💡
 
 
-## Education
-- **Bachelor's Degree in Control and Automation Engineering**
-  - Universidade Federal de Minas Gerais (UFMG)
-  - *Years Attended*: 2021 - Present
-    
-- **Exchange Program in Computer Science**
-  - University of Jyväskylä, Finland
-  - *Duration*: 2024 - Present
-    
-- **Technical Course in Eletrotechnical**
-  - CEFET-MG
-  - *Years Attended*: 2018 - 2021
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F7EFF2&width=435&lines=I+am+a+Software+Engineer+%F0%9F%92%BB;I+live+in+Brazil+%F0%9F%87%A7%F0%9F%87%B7;I+speak+English+and+Spanish+%F0%9F%8C%90)](https://git.io/typing-svg)
 
-## Interests
-I am deeply interested in back end development, with a focus on building robust and scalable systems. Additionally, I am passionate about exploring the full stack, combining my back end expertise with front end technologies to create complete and dynamic web applications.
+I am an Electrical Technician from [CEFET-MG](https://www.curvelo.cefetmg.br/) and am currently studying computer science at the [University of Jyväskylä](https://www.jyu.fi/en) in Finland as an exchange student. Additionally, I am pursuing a bachelor's degree in Control and Automation Engineering at Universidade Federal de Minas Gerais [(UFMG)](https://www.ufmg.br).
+I am focused on enhancing my skills in Software Development, with a particular interest in both front-end and back-end technologies.
+
+<img align="right" alt="" height="300px"  width="300px" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHA1bDl1MTFla3hsZmZpYXhhMHNqN2k3aDMwM2Zmdzkyc3J2NXJraCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y1vohJMVMtjSQxmUot/giphy.gif">
 
 
-## Languages
-- **Portuguese**: Native proficiency
-- **English**: C1 proficiency
-- **Spanish**: B2 proficiency
 
-## Voluntary Projects
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" />Technologies I'm learning
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> JavaScript, React, MongoDB, and Node.js are some of the technologies I am deepening my studies.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="25" height="25" /> Also keen on learning Python, Next.js and Software Testing!!!
 
-- **Assisting International Students**: Engaged in a meaningful initiative spearheaded by the University's Department of International Relations, I dedicated myself to supporting exchange students navigating their experience in Brazil. My role involved providing vital assistance and facilitating language acquisition, ensuring their smooth integration.
-
-
-## Contact Information
-- **GitHub**: [Riquelme3m](https://github.com/Riquelme3m)
-- **LinkedIn**: [Riquelme Batista](https://www.linkedin.com/in/riquelme-batista-389b37218)
-- **Email**: riquelme3m@outlook.com
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cowboy%20Hat%20Face.png" alt="Cowboy Hat Face" width="30" height="30" /> Let's connect!
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=blue&color=blue
+)](mailto:riquelme3m@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=blue&color=FFF
+)](https://www.linkedin.com/in/riquelme-batista-389b37218/)
 
 
-## Call to Action
-Feel free to check out my projects and don’t hesitate to connect with me for collaborations or opportunities!
 
+### Languages and Technologies
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,c,cs,dotnet,docker,babel" />
+</a>
+
+### Frameworks and Libraries
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,vite,firebase,mongodb,mysql,postgres,materialui,jest" />
+</a>
+
+### Tools and Platforms
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,figma,linux,npm,yarn,postman" />
+</a>
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+</picture>
+<br><br>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&color=F7F7F7&width=435&lines=%F0%9F%98%83+Feel+free+to+reach+me+out+!;%F0%9F%94%8E+Check+out+my+projects+!;%F0%9F%99%8B+Hasta+Luego+!)](https://git.io/typing-svg)
